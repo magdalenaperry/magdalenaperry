@@ -4,8 +4,6 @@
 const aboutMe = {
   name: "Magdalena Perry",
 
-  location: "USA",
-
   hobbies: ["golf", "Destiny 2", "gardening", "baking", "painting"],
 
   technologies: {
@@ -16,12 +14,10 @@ const aboutMe = {
     backEnd: {
       js: ["Node", "Express"],
     },
-    databases: ["MongoDB", "mySQL", "SQLServer"],
+    databases: ["MongoDB", "MYSQL"],
   },
 
   currentOccupation: "software developer",
-
-  challenge: "I'm working towards being able to run a marathon.",
 };
 ```
 
@@ -30,6 +26,6 @@ const aboutMe = {
 <div class='container' style='text-align:center'>
 
   <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=magdalenaperry&show_icons=true&theme=radical" />
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenaperry&theme=radical&langs_count=8&layout=compact" />
+  <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenaperry&theme=radical&langs_count=8&layout=compact" />
 
 </div>
