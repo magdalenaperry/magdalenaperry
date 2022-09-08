@@ -1,13 +1,4 @@
-<img src='magdalenaPerry.png' width=95% alt="banner"></img>
-
-<div class='container'>
-
-  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=magdalenaperry&show_icons=true&theme=default" />
-    <!-- &nbsp; -->
-    <!-- &nbsp; -->
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenaperry&theme=default&langs_count=8&layout=compact" />
-
-</div>
+<img src='magdalenaPerry.png' width=100% alt="banner"></img>
 
 ```js
 const aboutMe = {
@@ -34,4 +25,11 @@ const aboutMe = {
 };
 ```
 
-  <img style="height: 100px; width: 98%" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=magdalenaperry" />
+  <!-- <img style="height: 100px; width: 98%" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=magdalenaperry" /> -->
+
+<div class='container' style='text-align:center'>
+
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=magdalenaperry&show_icons=true&theme=radical" />
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenaperry&theme=radical&langs_count=8&layout=compact" />
+
+</div>
