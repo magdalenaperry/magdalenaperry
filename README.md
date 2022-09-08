@@ -9,29 +9,28 @@
 
 </div>
 
-```json
-
+```js
 const aboutMe = {
-  "name": "Magdalena Perry",
+  name: "Magdalena Perry",
 
-  "location": "USA",
+  location: "USA",
 
-  "hobbies": ["golf","Destiny 2", "gardening", "baking", "painting"],
+  hobbies: ["golf", "Destiny 2", "gardening", "baking", "painting"],
 
-  "technologies": {
-      "frontEnd": {
-         "js": ["React", "NextJs"],
-         "css": ["Bootstrap","Semantic UI"]
-      },
-      "backEnd": {
-         "js": ["Node", "Express"],
-      },
-      "databases": ["MongoDB", "mySQL", "SQLServer"],
-   },
+  technologies: {
+    frontEnd: {
+      js: ["React", "NextJs"],
+      css: ["Bootstrap", "Semantic UI"],
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+    },
+    databases: ["MongoDB", "mySQL", "SQLServer"],
+  },
 
-  "currentOccupation": "software developer",
+  currentOccupation: "software developer",
 
-  "challenge": "I'm working towards being able to run a marathon.",
+  challenge: "I'm working towards being able to run a marathon.",
 };
 ```
 
